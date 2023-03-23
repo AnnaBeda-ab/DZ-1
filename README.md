@@ -13,3 +13,7 @@ UKRAINE
 ### about Lviv
 # Ivano-Frankivsk
 ### about Ivano-Frankivsk
+# Lugansk
+### about Lugansk
+# Doneck
+### about Doneck
